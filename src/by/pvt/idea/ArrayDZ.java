@@ -75,6 +75,6 @@ public class ArrayDZ {
             i++;
         }
         System.out.print(Arrays.toString(a));*/
-        
+
     }
 }
